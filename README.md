@@ -1,3 +1,3 @@
-# Installing VirtualBox on Debian 12
+# Installing VirtualBox And 
 
-This is just a simple bash script to install automatically VirtualBox on your Debian 12
+This is just a simple bash script to install automatically VirtualBox and Vagrant on your Debian 12
